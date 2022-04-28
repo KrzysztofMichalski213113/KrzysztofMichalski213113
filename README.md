@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @KrzysztofMichalski213113
-- 👀 I’m interested in Customer contact/relationships / JavaScript / Angular 
-- 🌱 I’m currently learning jQuery DOM
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me s213113@student.uek.krakow.pl / michalski.kr@gmail.com
+# Training App (React)
 
-<!---
-KrzysztofMichalski213113/KrzysztofMichalski213113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A responsive Trainings website with image uploading features integrated with Firebase User Authentication and Firestore Database.
+
+Features:
+
+1. Log In with email and password
+2. Enter training
+3. Add a picture to your training
+4. Edit your training
+5. Delete training
+6. Delete/reupload Image
